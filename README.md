@@ -1,7 +1,6 @@
 # Advanced Drone Simulator 
 
 
-
 <img width="651" alt="Screenshot 2021-07-23 at 04 59 43" src="https://user-images.githubusercontent.com/90071182/132074312-af140b42-0e7e-4cf3-8dce-f428cec62bef.png">
 
 
@@ -32,9 +31,13 @@ From a university student to a hobbyist. For anyone who likes to fly drones but 
 
 DGS Flight Simulator is designed to create a realistic simulated flight experience for pilots in training and tuning, allowing them to hone their skills without the costs, restrictions and potential risks of real-life training.
 
+
 ## What is the status of development?
 
 It's currently developing. we will update every detail of it soon as possible.
+#### For more info
 
+Dasa Games Studio(Youtube) : https://youtube.com/channel/UCdcFJUWtAc_mGT_CeYGiULg
 
+---
 ![DGSLOGO](https://user-images.githubusercontent.com/90071182/132076293-ac320a7e-5265-4f95-b52d-b03a3b1d930e.png)
